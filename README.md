@@ -7,7 +7,7 @@ identifiers are also a difference between naming conventions.  Cdba uses
 
 # Supported Naming Conventions
 This library will internally store all strings as UTF-8, thus allowing for
-International and wide character string support.  To start, this library
+International and wide character string support.  To start this library
 will support:
 - UTF-8 (default)
 - Cdba
